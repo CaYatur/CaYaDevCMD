@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaYaDevCMDEmulator", "CaYaDevCMDEmulator\CaYaDevCMDEmulator.csproj", "{3D76144A-1623-46D0-9D15-584D7624764D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D76144A-1623-46D0-9D15-584D7624764D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D76144A-1623-46D0-9D15-584D7624764D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D76144A-1623-46D0-9D15-584D7624764D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D76144A-1623-46D0-9D15-584D7624764D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C828FC9C-A9F3-4DEB-80CA-89FCD96D97E2}
+	EndGlobalSection
+EndGlobal
