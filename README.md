@@ -9,4 +9,4 @@ Komut geçmişi ve yardım menüsü olan, CaYaDev temalı komut satırı arayüz
 
 ---
 
-Çağan Turgut · [caganturgut.com](https://caganturgut.com) · [GitHub](https://github.com/CaYatur)
+Çağan Turgut · [GitHub](https://github.com/CaYatur)
